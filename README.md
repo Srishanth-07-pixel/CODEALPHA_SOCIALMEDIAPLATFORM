@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Echo — Social Media Platform
 ### CodeAlpha Full Stack Internship — Task 2
 
@@ -106,3 +107,6 @@ http://localhost:3000
 
 ## 📦 GitHub Repository Name
 `CodeAlpha_SocialMediaPlatform`
+=======
+# CODEALPHA_SOCIALMEDIAPLATFORM
+>>>>>>> 76e9b900625f9e1dba92c5e388531bbf6186e6e9
